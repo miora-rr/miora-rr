@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mio 👋</h1>
-<h4 align="center">👨‍🎓 Graduate Student | Polytechnique Montreal '24 🎓 | Fullstack Developer by Day, Self-taught Enthusiast by Night 🌙 | Keep Learning, Stay Passionate 🚀</h4>
+<h4 align="center">👨‍🎓 Graduate Student | Polytechnique Montreal '24 🎓 | Self-taught Enthusiast| Stay Passionate 🚀</h4>
 
 - 🌱 I’m currently learning to get an **AWS Cloud Architect Certification**
 
@@ -21,7 +21,7 @@
 <h4 align="left">Database:</h4>
 <p align="center"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-<h4 align="left">DevOps:</h4>
+<h4 align="left">Cloud Technologies:</h4>
 <p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> </p>
 
 <h4 align="left">Other:</h4>
