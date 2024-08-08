@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mio 👋</h1>
-<h4 align="center">👨‍🎓 Graduate Student | Polytechnique Montreal '24 🎓 | Self-taught Enthusiast| Stay Passionate 🚀</h4>
+<h4 align="center">👨‍🎓 Graduate Student | Polytechnique Montreal '24 🎓 | Stay Passionate 🚀</h4>
 
 - 🌱 I’m currently learning to get an **AWS Cloud Architect Certification**
 
