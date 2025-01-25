@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mio 👋</h1>
-<h4 align="center">👨‍🎓 Graduate Student | Polytechnique Montreal '24 🎓 | 🛠️ DevOps Enthusiast | Cloud Technologies 🌐 | Stay Passionate 🚀</h4>
+<h4 align="center">👨‍🎓 Graduate Student | B. Eng. Polytechnique Montreal '24 🎓 | M. Eng. Polytechnique Montreal ? 📅 | 🛠️ DevOps Enthusiast | Cloud Technologies 🌐 | Stay Passionate 🚀</h4>
 
-- 🌱 I’m currently learning **CKA, SAA-C03 and Java Spring**
+- 🌱 I’m currently learning **CKA, SAA-C03**
 - 🌟 Certified **AWS Cloud Practitioner** (October 2024)
 - 📫 How to reach me **miora.r.rakoto@gmail.com** or on **[LinkedIn](https://www.linkedin.com/in/miora-rakoto-31ba2b1a7/)**
 
